@@ -1,0 +1,12 @@
+{
+  "data": {
+    "id": 1,
+    "message": "水闸一号",
+    "name": "1号闸",
+    "address": "上海市普陀区金沙江路 1518 弄",
+    "cross": "圆形",
+    "waterAdd": 100,
+    "flow": 1000,
+    "gateAdd": 500
+  }
+}
